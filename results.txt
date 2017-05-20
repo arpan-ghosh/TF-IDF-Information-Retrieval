@@ -1,0 +1,219 @@
+
+
+
+1. Listing the top 20 documents for queries 6, 9, 22.
+
+Target Document/Query number: 6
+
+Show how many matching documents (20): 20
+Query to Document comparison
+Total in GET_RETRIEVED_SET: 3204
+
+    ************************************************************
+	Documents Most Similar To Query number 6
+    ************************************************************
+    Similarity   Doc#  Author      Title
+    ==========   ==== ========     =============================
+
+    0.09997934   2753 Pfefferkorn  #  A Heuristic Problem Solvin
+*   0.09284141   2828 Clark        #  Hierarchical Geometric Mod
+    0.07956600   3035 Wetherbe     #  A Strategic Planning Metho
+    0.07400748   2721 Claudson     #  The Digital Simulation of 
+    0.06947334   2909 Wirth        #  What Can We Do about the U
+    0.06168610   2707 Bitner       #  Backtrack Programming Tech
+    0.05962847   2389 Eastman      #  Preliminary Report on a Sy
+    0.05791629   2187 Amarel       #  Computer Science: A Concep
+    0.05634361   2836 Loui         #  Weighted Derivation Trees 
+*   0.05520524   1543 Howard       #  Computer Formulation of th
+    0.05504818   2671 Stone        #  A Note on a Combinatorial 
+    0.05416892   2705 Naur         #  Programming Languages, Nat
+    0.05351344   2230 Bracchi      #  A Language for Treating Ge
+    0.05307448   2087 Pager        #  A Number System for the Pe
+    0.05243225   3040 Freuder      #  Synthesizing Constraint Ex
+    0.05147531   2826 Burtnyk      #  Interactive Skeleton Techn
+    0.04969039   3188 Zemanek      #  Semiotics and Programming 
+    0.04789474   2684 Ledgard      #  Production Systems: or Can
+    0.04629100   2505 Roy          #  Reflection-Free Permutatio
+    0.04288450   605  --           #  Computer Simulation Of Cit
+    0.04244763   2873 Raymond      #  LG: A Language for Analyti
+
+
+    Target Document/Query number: 9
+
+Show how many matching documents (20): 20
+Query to Document comparison
+Total in GET_RETRIEVED_SET: 3204
+
+    ************************************************************
+	Documents Most Similar To Query number 9
+    ************************************************************
+    Similarity   Doc#  Author      Title
+    ==========   ==== ========     =============================
+
+    0.38924947   2311 Benjamin     #  A Generational Perspective
+    0.38181818   2621 Purdy        #  A High Security Log-in Pro
+    0.33069765   1750 Fuchel       #  Considerations in the Desi
+    0.32897584   1844 Baskin       #  A Modular Computer Sharing
+    0.32635411   2345 Ashenhurst   #  Curriculum Recommendations
+    0.31803997   3150 Winograd     #  Beyond Programming Languag
+    0.31583431   2317 Rosen        #  Programming Systems and La
+    0.29497626   2151 Nemeth       #  User Program Measurement i
+    0.29389527   2407 Couger       #  Curriculum Recommendations
+    0.29018521   3082 Lamport      #  Time, Clocks, and the Orde
+    0.28804609   3141 Chang        #  An Improved Algorithm for 
+    0.28622821   2522 Rodriguez    #  The Design, Implementation
+    0.28088450   1728 Coffman      #  Further Experimental Data 
+    0.28016815   2949 Tajibnapis   #  A Correctness Proof of a T
+*   0.27852424   2372 Conway       #  On the Implementation of S
+    0.27760045   2482 Howard       #  Mixed Solutions for the De
+    0.27683450   1685 Schurmann    #  GAN, a System for Generati
+    0.27552809   2111 Morgan       #  Spelling Correction in Sys
+    0.27519356   1959 Morgan       #  An Interrupt Based Organiz
+    0.25014078   1747 Van          #  Three Criteria for Designi
+*   0.24863262   3068 Popek        #  A Model for Verification o
+
+
+Target Document/Query number: 22
+
+Show how many matching documents (20): 20
+Query to Document comparison
+Total in GET_RETRIEVED_SET: 3204
+
+    ************************************************************
+	Documents Most Similar To Query number 22
+    ************************************************************
+    Similarity   Doc#  Author      Title
+    ==========   ==== ========     =============================
+
+*   0.32803817   2751 Phong        #  Illumination for Computer 
+*   0.30800886   2369 Matsushita   #  Hidden Lines Elimination f
+*   0.29488391   2678 Wright       #  Visible Surface Plotting P
+    0.27216552   2004 Bouknight    #  A Procedure for Generation
+*   0.26314580   2692 Sutherland   #  Reentrant Polygon Clipping
+    0.25989372   2913 Crow         #  The Aliasing Problem in Co
+*   0.25900956   2827 Levin        #  A Parametric Algorithm for
+*   0.22908628   2473 Macleod      #  Hidden-Line Plotting Progr
+*   0.22247460   2828 Clark        #  Hierarchical Geometric Mod
+*   0.21878136   2829 Blinn        #  Texture and Reflection in 
+    0.20959384   1915 Galimberti   #  An Algorithm for Hidden Li
+*   0.19658927   2384 Williamson   #  Hidden-Line Plotting Progr
+    0.18579297   1978 Smith        #  The Use of Interactive Gra
+    0.16375320   1741 Ophir        #  BRAD: The Brookhaven Raste
+    0.16257103   2322 Foster       #  A View of computer Archite
+    0.16243864   2925 Fuchs        #  Optimal Surface Reconstruc
+    0.15888544   2485 Nolan        #  Managing the Computer Reso
+    0.15499685   1551 Nakata       #  On Compiling Algorithms fo
+    0.15205718   2771 Braid        #  The Synthesis of Solids Bo
+    0.15172428   2924 Wu           
+    0.14186759   2325 Traub        #  Numerical Mathematics and 
+
+2. 
+
+3. 
+
+Target Document/Query number: 239
+
+Show how many matching documents (20): 20
+Document to Document comparison
+Total in GET_RETRIEVED_SET: 3204
+
+    ************************************************************
+	Documents Most Similar To Document number 239
+    ************************************************************
+    Similarity   Doc#  Author      Title
+    ==========   ==== ========     =============================
+
+Use of uninitialized value $similarity in print at vector1.prl line 761, <STDIN> line 4.
+       239  Verhoeff     #  Inefficiency of the Use of
+    0.54395809   1032 Belzer       #  Theoretical Considerations
+    0.45643546   652  Sable        #  Use of Semantic Structure 
+    0.45643546   1059 Williams     #  Heapsort (Algorithm 232) 
+    0.40824829   635  Baker        #  A Note on Multiplying Bool
+    0.40414518   238  Garfinkel    #  Simulation and Analysis of
+    0.39036002   953  Baker        #  Scanning Text with a 1401 
+    0.37573457   393  Carr         #  Two Subroutines for Symbol
+    0.37267799   1150 Kahan        #  A Fortran Post-Mortem Proc
+    0.34914862   689  Gosden       #  Report of a Visit to Discu
+    0.34503277   561  Hanson       #  Analytic Differentiation B
+    0.34426518   1220 Gunn         #  9-J Symbols (Algorithm 261
+    0.34426518   1221 Gunn         #  6-J Symbols (Algorithm 260
+    0.34073416   1345 Waltons      #  Tensor Calculations on the
+    0.33855558   1288 Conway       #  CLP-The Cornell List Proce
+    0.33028912   633  Garfinkel    #  Simulation and Analysis of
+    0.31622776   472  Counts       #  Gauss' Method (Algorithm 1
+    0.31622776   592  Mullen       #  COBOL Batching Problems 
+    0.31139957   532  Fraser       #  On the Computation of Rati
+    0.31139957   1599 Kohfeld      #  Numerical Solution of the 
+    0.31139957   2588 Klemes       #  Rosenbrock Function Minimi
+
+
+Target Document/Query number: 1236
+
+Show how many matching documents (20): 20
+Document to Document comparison
+Total in GET_RETRIEVED_SET: 3204
+
+    ************************************************************
+	Documents Most Similar To Document number 1236
+    ************************************************************
+    Similarity   Doc#  Author      Title
+    ==========   ==== ========     =============================
+
+Use of uninitialized value $similarity in print at vector1.prl line 761, <STDIN> line 10.
+       1236 Salton       #  The SMART Automatic Docume
+    0.32891446   1457 Salton       #  Data Manipulation and Prog
+    0.30683671   3012 Lucas        #  The Use of an Interactive 
+    0.30669580   718  Weinberg     #  An Experiment in Automatic
+    0.30346636   2307 Salton       #  Dynamic Document Processin
+    0.28980029   972  Heistand     #  An Executive System Implem
+    0.28379468   1518 Katz         #  An Experimental Model of S
+    0.28169713   1393 Collins      #  PM, A System for Polynomia
+    0.27888667   6    Muller       #  The Use of Computers in In
+    0.27602622   398  Sibley       #  The SLANG System 
+    0.27602622   634  Salton       #  Manipulation of Trees in I
+    0.27003086   2711 Salton       #  A Vector Space Model for A
+    0.26621048   1937 Day          #  CODAS: A Data Display Syst
+    0.26552999   3025 Bell         #  The Evolution of the DEC s
+    0.26493881   2542 Graham       #  A Software Design and Eval
+    0.26390039   1173 Naur         #  The Performance of a Syste
+    0.26386865   1334 Gerard       #  Mechanization of Tedious A
+    0.26112375   1083 Klerer       #  An Experiment in a User-Or
+    0.26092598   1515 Levien       #  A Computer System for Infe
+    0.26060121   202  Senko        #  A Control System For Logic
+    0.26024001   190  --           #  Bendix G-20 System 
+
+
+Target Document/Query number: 2740
+
+Show how many matching documents (20): 20
+Document to Document comparison
+Total in GET_RETRIEVED_SET: 3204
+
+    ************************************************************
+	Documents Most Similar To Document number 2740
+    ************************************************************
+    Similarity   Doc#  Author      Title
+    ==========   ==== ========     =============================
+
+Use of uninitialized value $similarity in print at vector1.prl line 761, <STDIN> line 15.
+       2740 Lauesen      #  A Large Semaphore Based Op
+    0.49211941   1749 Dijkstra     #  The Structure of the "THE"
+    0.40777270   2379 Liskov       #  The Design of the Venus Op
+    0.39222101   2378 Gaines       #  An Operating System Based 
+    0.32667274   2920 Devillers    #  Game Interpretation of the
+    0.32473267   2629 Ritchie      #  The UNIX Time-Sharing syst
+    0.30418262   2542 Graham       #  A Software Design and Eval
+    0.29107632   2342 Gilbert      #  Interference Between Commu
+    0.28960783   1591 Engvold      #  A Model for a Multifunctio
+    0.27985694   1752 Oppenheimer  #  Resource Management for a 
+    0.27713865   2080 Hansen       #  The Nucleus of a Multiprog
+    0.27524821   3025 Bell         #  The Evolution of the DEC s
+    0.27410033   2597 Hoare        #  Monitors: An Operating Sys
+    0.27365793   1657 Harrison     #  Implementation of the SHAR
+    0.27129883   2319 Lynch        #  Operating System Performan
+    0.26484389   1719 Stimler      #  A Methodology for Calculat
+    0.26180262   2541 Balzer       #  An Overview of the ISPL Co
+    0.25960292   1751 Denning      #  The Working Set Model for 
+    0.25165785   1750 Fuchel       #  Considerations in the Desi
+    0.24975327   1827 Pinkerton    #  Performance Monitoring in 
+    0.24845293   2424 Fabry        #  Dynamic Verification of Op
